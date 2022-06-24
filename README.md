@@ -1,6 +1,6 @@
 # Opa, Arthur aqui 👋
 * 🔭 Atualmente trabalho como estágiário em Engenharia (desenvolvimento de firmware) na empresa [Tracktum](https://tracktum.com/)
-* 🌱 Estou cursando Engenhaia Mecatrônica na UTFPR
+* 🌱 Estou cursando Engenharia Mecatrônica na UTFPR
 
 Me formei como técnico em informárica na IFPR, e de lá que nasceu o meu interesse em tecnologia, principalmente na área de Automação e de Microcontroladores. Durante minha formação, fiz vários projetos, qie serviram como aprendizados para os projetos atuais, sendo um deles um sistema que visa realizar o controle e monitoramento de materiais de forma automatizada utilizando microcontroladores e conceitos de IOT. O nosso projeto também foi publicado em um [artigo](https://www.brazilianjournals.com/index.php/BRJD/article/view/45226).
 
