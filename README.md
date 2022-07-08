@@ -6,8 +6,8 @@ Me formei como técnico em informática na IFPR, e de lá que nasceu o meu inter
 
 <div>
     <a href="https://github.com/artmehl">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=artmehl&theme=dracula&include_all_commits=true&show_icons=true&locale=pt-br">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artmehl&theme=dracula&layout=compact&locale=pt-br&langs_count=7">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api?username=artmehl&theme=dracula&include_all_commits=true&show_icons=true&locale=pt-br">
+        <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artmehl&theme=dracula&layout=compact&locale=pt-br&langs_count=7">
     </a>
 </div>
 
