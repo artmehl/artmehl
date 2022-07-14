@@ -20,6 +20,7 @@ Me formei como técnico em informática na IFPR, e de lá que nasceu o meu inter
   <img alt="Ícone do JavaScript" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
   <a href="https://bit.ly/3MFtizn" target="_blank" rel="external"><img src="https://bit.ly/2SbOR4x" alt="LinkedIn"></a>
   <a href="mailto: arthurmehl14@gmail.com" target="_blank" rel="external"><img src="https://bit.ly/3v5jN3I" alt="Gmail"></a>
+  <a href="https://bit.ly/3Pqq8RU" target="_blank" rel="external"><img src="https://bit.ly/3w5kACN" alt="YouTube"></a>
 </span><br>
 
 <span>
